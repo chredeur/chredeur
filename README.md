@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Chredeur
 
-- 💻 I use [Visual Studio Code](https://code.visualstudio.com/)
-- 🥖 I live in France in Bordeaux
+- 💻 I use [Visual Studio Code](https://code.visualstudio.com/) and [PyCharm](https://www.jetbrains.com/fr-fr/pycharm/)
 
 ## 🔗 Talk to me ?:
 <p align="left">
