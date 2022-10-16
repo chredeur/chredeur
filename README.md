@@ -15,4 +15,3 @@
 
 ## 🚩 Projects:
 - [<img src="https://flazebot.com/static/assets/img/Flaze_le_bot_no_background.png" width="24"/> FlazeBot](https://flazebot.com)
-- [<img src="https://i.imgur.com/1rvGsg2.png" width="24"/> Furiozia](https://furiozia.com)
