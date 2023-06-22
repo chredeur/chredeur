@@ -14,4 +14,4 @@
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Lua" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
 ## 🚩 Projects:
-- [<img src="https://flazebot.com/static/assets/img/Flaze_le_bot_no_background.png" width="20"/> FlazeBot](https://flazebot.com)
+- [<img src="https://flazebot.com/static/assets/img/Flaze_le_bot_no_background.png" width="24"/> FlazeBot](https://flazebot.com)
