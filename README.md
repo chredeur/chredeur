@@ -15,3 +15,6 @@
 
 ## 🚩 Projects:
 - [<img src="https://flazebot.com/static/assets/img/Flaze_le_bot_no_background.png" width="24"/> FlazeBot](https://flazebot.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chredeur)](https://github.com/anuraghazra/github-readme-stats)
+
