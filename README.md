@@ -15,4 +15,4 @@
 
 ## 🚩 Projects:
 - [<img src="https://flazebot.com/static/assets/img/Flaze_le_bot_no_background.png" width="24"/> FlazeBot](https://flazebot.com)
-
+- [<img src="https://www.pastanetwork.com/static/assets/img/favicon.ico" width="24"/> Pastanetwork](https://www.pastanetwork.com/)
