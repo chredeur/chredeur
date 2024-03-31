@@ -27,6 +27,7 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/> </a>
   <a href="https://www.influxdata.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/influxdb-icon-252x256-lkngj47t.png" title="InfluxDB"  alt="InfluxDB" width="40" height="40"/> </a>
   <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-48x48.ico" title="Nginx"  alt="Nginx" width="40" height="40"/> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>
 </p>
 
 ## 🚩 Projects:
