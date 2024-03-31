@@ -23,7 +23,7 @@
   <a href="https://mariadb.org/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/468/466/png-clipart-mariadb-mysql-amazon-relational-database-service-fork-marine-mammal-mammal-thumbnail.png" title="MariaDB"  alt="MariaDB" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Dokcer" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="40" height="40"/> </a>
-  <a href="https://quart.palletsprojects.com/en/latest/" target="_blank"> <img src="https://raw.githubusercontent.com/pallets/quart/main/artwork/logo.png" title="Quart"  alt="Quart" width="90" height="40"/> </a>
+  <a href="https://quart.palletsprojects.com/en/latest/" target="_blank"> <img src="https://pgjones.gitlab.io/quart/_static/logo_short.png" title="Quart"  alt="Quart" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/> </a>
 </p>
 
