@@ -21,6 +21,7 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank"> <img src="https://developer.fedoraproject.org/static/logo/mariadb.png" title="MariaDB"  alt="MariaDB" width="40" height="40"/> </a>
+  <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Dokcer" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="40" height="40"/> </a>
   <a href="https://quart.palletsprojects.com/en/latest/" target="_blank"> <img src="https://pgjones.gitlab.io/quart/_static/logo_short.png" title="Quart"  alt="Quart" width="40" height="40"/> </a>
