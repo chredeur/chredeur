@@ -26,7 +26,7 @@
   <a href="https://quart.palletsprojects.com/en/latest/" target="_blank"> <img src="https://pgjones.gitlab.io/quart/_static/logo_short.png" title="Quart"  alt="Quart" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/> </a>
   <a href="https://www.influxdata.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/influxdb-icon-252x256-lkngj47t.png" title="InfluxDB"  alt="InfluxDB" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/816/934/png-transparent-nginx-hd-logo-thumbnail.png" title="Nginx"  alt="Nginx" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/262/242/png-transparent-nginx-phusion-passenger-application-software-proxy-server-reverse-proxy-creativo-logo-de-marca-angle-text-trademark.png" title="Nginx"  alt="Nginx" width="40" height="40"/> </a>
 </p>
 
 ## 🚩 Projects:
