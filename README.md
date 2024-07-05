@@ -24,7 +24,7 @@
   <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Dokcer" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="40" height="40"/> </a>
-  <a href="https://quart.palletsprojects.com/en/latest/" target="_blank"> <img src="https://pgjones.gitlab.io/quart/_static/logo_short.png" title="Quart"  alt="Quart" width="40" height="40"/> </a>
+  <a href="https://quart.palletsprojects.com/en/latest/" target="_blank"> <img src="https://quart.palletsprojects.com/en/latest/_static/logo_short.png" title="Quart"  alt="Quart" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/> </a>
   <a href="https://www.influxdata.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/influxdb-icon-252x256-lkngj47t.png" title="InfluxDB"  alt="InfluxDB" width="40" height="40"/> </a>
   <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-48x48.ico" title="Nginx"  alt="Nginx" width="40" height="40"/> </a>
