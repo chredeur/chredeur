@@ -27,7 +27,7 @@
   <a href="https://quart.palletsprojects.com/en/latest/" target="_blank"> <img src="https://quart.palletsprojects.com/en/latest/_static/logo_short.png" title="Quart"  alt="Quart" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/> </a>
   <a href="https://www.influxdata.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/influxdb-icon-252x256-lkngj47t.png" title="InfluxDB"  alt="InfluxDB" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-48x48.ico" title="Nginx"  alt="Nginx" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" title="Nginx"  alt="Nginx" width="40" height="40"/> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>
   <a href="https://www.liquidsoap.info/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Liquidsoap_logo.svg/1200px-Liquidsoap_logo.svg.png" title="Liquidsoap"  alt="Liquidsoap" width="40" height="40"/> </a>
   <a href="https://github.com/karlheyes/icecast-kh" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Icecast_logo.svg/1200px-Icecast_logo.svg.png" title="Icecast-KH"  alt="Icecast-KH" width="40" height="40"/> </a>
